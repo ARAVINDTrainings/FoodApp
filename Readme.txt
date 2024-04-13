@@ -1,5 +1,5 @@
 == Theme Name: Food And Restaurant Psd Template
-
+Aravind Trainings
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co
