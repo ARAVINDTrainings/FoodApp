@@ -1,7 +1,7 @@
 == Theme Name: Food And Restaurant Psd Template
 
 == Copyright (c) 2016 BootstrapThemes.co
-FoodApp
+
 == http://BootstrapThemes.co
 
 
